@@ -1,0 +1,4 @@
+untuk dokumentasi pekerjaan terkait dengan perubahan pada website kepada pemangku kepentingan nonteknis, biasa diperusahaan sebelumnya biasanya saya membuat request form, yang mana berisi tentang informasi perubahan, tujuan melakukan perubahan, waktu dan berapa lama project dapat diselesaikan. lalu form tersebut ditandatangani oleh bagian terkait termasuk direktur jika diperlukan.
+hal ini untuk menghindari terjadinya kesalahan komunikasi dan pemangku kepentingan non teknis tahu terkait project kita.
+
+setelah project selesai biasanya saya melakukan sosialisasi / pelatihan kepada klien atau pengguna akhir tentang cara menggunakan dan mengelola website. Ini bisa melibatkan   fitur khusus yang telah dikembangkan. lalu menerima feedback terkait apa saja yang menjadi bug atau harus diperbaiki.
